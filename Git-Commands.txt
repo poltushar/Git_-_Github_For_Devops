@@ -1,0 +1,57 @@
+  Id CommandLine
+  -- -----------
+   1 try { . "c:\Users\tusha\AppData\Local\Programs\Microsoft VS Code\resources\app\out\vs\workbench\contrib\terminal\common\scripts\shellIntegration.ps1" } catc...
+   2 & C:\Users\tusha\AppData\Local\Programs\Python\Python313\python.exe f:/Github-For-devops/testing.py
+   3 ls
+   4 ls- l
+   5 git init
+   6 dir
+   7 dir -a
+   8 dir --a
+   9 dir -a----
+  10 git status
+  11 dir --a
+  12 git add .
+  13 git status
+  14 git rm --cached testing.py
+  15 git status
+  16 git commit -m "chotu"
+  17 git status
+  18 git add testing.py
+  19 git commit -m "chotu"
+  20 git satus
+  21 git status
+  22 git rm --cached testing.py
+  23 git status
+  24 git restore testing.py
+  25 git restore testing.py
+  26 git restore testing.py
+  27 git status
+  28 git restore --staged testing.py
+  29 git restore testing.py...
+  30 git restore testing.py
+  31 git status
+  32 history
+  33 git remote add origin https://github.com/poltushar/Git_-_Github_For_Devops.git...
+  34 git branch -M main...
+  35 git push -u origin main...
+  36 git commit  -m "testing"
+  37 git push -u origin main...
+  38 git status
+  39 git add .
+  40 git push -u origin main...
+  41 git status
+  42 git add .
+  43 git push -u origin main...
+  44 git push
+  45 git add Git-Commands.txt
+  46 git push
+  47 git push
+  48 git add .
+  49 git push
+  50 git push
+  51 git add Git-Commands.txt
+  52 git push
+  53 git init
+  54 git add .
+  55 git push
