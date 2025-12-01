@@ -27,3 +27,71 @@ clear
 
 
 this is some new changes
+
+
+ 2053  echo "# testing_devops" >> README.md
+ 2054  git init
+ 2055  git add README.md
+ 2056  git commit -m "first commit"
+ 2057  git branch -M main
+ 2058  git remote add origin https://github.com/poltushar/testing_devops.git
+ 2059  git push -u origin main
+ 2060  git remote add origin https://github.com/poltushar/testing_devops.git
+ 2061  git branch -M main
+ 2062  git push -u origin main
+ 2063  git remote status
+ 2064  git remote -v
+ 2065  git pull
+ 2066  git checkout
+ 2067  git branch tushar
+ 2068  git checkout
+ 2069  git branch
+ 2071  git checkout tushar
+ 2072  git branch
+ 2073  git checkout main
+ 2074  git checkout tushar
+ 2075  git status
+ 2076  git add tushar1.py
+ 2077  git add tusshar1.py
+ 2078  git status
+ 2079  git commit -m "new branch"
+ 2080  git push
+ 2081  git push origin tusshar
+ 2082  git push origin tusshar --force
+ 2083  git push
+ 2084  git pull
+ 2085  git push origin tusshar --force
+ 2086  git push
+ 2087  git push origin tusshar --force
+ 2088  git push
+ 2089  git commit -m "new branch"
+ 2090  git push
+ 2091  git push origin tusshar --force
+ 2092  git remote -v
+ 2093  git push
+ 2094  git push --set-upstream origin tushar
+ 2095  git pull tushar
+ 2096  git pull origin tushar
+ 2097  git push
+ 2098  git push --set-upstream origin tushar
+ 2099  git add tusshar1.py
+ 2100  git status
+ 2101  git push origin tushar
+ 2102  git pull --rebase origin tushar
+ 2103  git push origin tushar
+ 2104  git pull origin --rebase 
+ 2105  git add .
+ 2106  git status
+ 2107  git commit -m "added commands"
+ 2108  git push origin tushar
+ 2109  git push origin master
+ 2110  git push origin main
+ 2111  git pull origin main
+ 2112  git push origin main
+ 2113  git merge main
+ 2114  git push origin main
+ 2115  git pull origin --rebase 
+ 2116* git push origin main 
+ 2117  git pull origin --rebase 
+ 2118  git pull origin --rebase tushar
+ 2119  git merge main
