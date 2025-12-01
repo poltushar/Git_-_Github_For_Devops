@@ -11,14 +11,14 @@ print(my_function(2, 34))
 print(my_function(12, 3))
 
 
-def my_function1():
-     password="test123@gmail.com"
+# def my_function1():
+#      password="test123@gmail.com"
 
-     return password
+#      return password
 
 
 
-my_function1()
+# my_function1()
 
 
 
